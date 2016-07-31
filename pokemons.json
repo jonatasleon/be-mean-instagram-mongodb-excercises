@@ -1,0 +1,45 @@
+[
+  {
+    "attack": 110,
+    "defense": 70,
+    "height": "18",
+    "name": "Dodrio",
+    "type": "flying",
+    "description": "Bichão zica de 3 cabeças feio pra casseta"
+  }, {
+    "attack": 52,
+    "defense": 48,
+    "height": "8",
+    "name": "Psyduck",
+    "type": "water",
+    "description": "Patão chapado"
+  }, {
+    "attack": 105,
+    "defense": 90,
+    "height": "4",
+    "name": "Krabby",
+    "type": "water",
+    "description": "Caranguejo boladão"
+  }, {
+    "attack": 110,
+    "defense": 90,
+    "height": "20",
+    "name": "Mewtwo",
+    "type": "psychic",
+    "description": "Vem monstro, vem monstro! Bichão criado em laboratório pra destruir todas essas árvores do Parque Ibirapuera"
+  }, {
+    "attack": 120,
+    "defense": 120,
+    "height": "32",
+    "name": "Arceus",
+    "type": "normal",
+    "description": "According to the legends of Sinnoh, this Pokémon emerged from an egg and shaped all there is in this world."
+  }, {
+    "attack": 150,
+    "defense": 50,
+    "height": "17",
+    "name": "Deoxys",
+    "type": "psychic",
+    "description": "The DNA of a space virus underwent a sudden mutation upon exposure to a laser beam and resulted in Deoxys. The crystalline organ on this Pokémon's chest appears to be its brain."
+  }
+]
