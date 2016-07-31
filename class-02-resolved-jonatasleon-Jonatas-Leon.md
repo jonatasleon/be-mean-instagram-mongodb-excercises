@@ -1,5 +1,4 @@
 # MongoDB - Aula 02 - Exercício
-
 Autor: Jonatas Leon
 
 ## Criar database chamada be-mean-pokemons
